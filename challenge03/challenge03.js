@@ -14,6 +14,7 @@ let userAge = 18;
 // } else {
 //   console.log("Eligible to vote!");
 // }
+//better appproach
 let mssg = userAge >= 18 ? "eligible" : "not eligible!";
 console.log(`${mssg}`);
 
